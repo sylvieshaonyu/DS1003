@@ -1,3 +1,3 @@
 # DS1003
-Machine Learning Project
+Machine Learning Project<br>
 NLP and Sentiment Analysis on Yelp Reviews
